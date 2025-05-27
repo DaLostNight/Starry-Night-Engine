@@ -17,3 +17,6 @@
 |                     |
 |     Open Source     |
 |_____________________|
+
+How To install
+gh repo clone DaLostNight/Starry-Night-Engine
